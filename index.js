@@ -21,10 +21,10 @@ setInterval(() => {
 
 function createBot () {
 const bot = mineflayer.createBot({
-  host: 'emerald.magmanode.com', 
+  host: 'ruby.magmanode.com', 
   version: '1.17.1',
-  username: 'DarkWorldB1', 
-  port: 33234, 
+  username: 'DarkWorldB2', 
+  port: 34455, 
   plugins: [AutoAuth],
   AutoAuth: 'bot112022'
 })
